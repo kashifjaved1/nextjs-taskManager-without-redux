@@ -1,0 +1,2 @@
+# nextjs-taskManager-without-redux
+ 
